@@ -1,2 +1,1 @@
-# CS5350-HW1
-Homework 1 Assignment for ML
+This is a machine learning library developed by Hunter Keene for CS5350/6350 in University of Utah
